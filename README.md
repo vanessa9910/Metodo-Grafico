@@ -1,1 +1,1 @@
-# Metodo-Grafico
+# Método Gráfico
